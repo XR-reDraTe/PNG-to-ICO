@@ -1,2 +1,2 @@
 # PNG-to-ICO
-Convert PNG image into ICO file.
+Convert PNG images into ICO icon files.
